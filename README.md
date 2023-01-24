@@ -2,10 +2,10 @@
 
 Traductor de HTML a SLIM usando ANTLR 4 con el patron de listeners. La traducción está enfocada en los elementos, etiquetas, atributos y scripts y estilos.
 
-##Integrantes:
+## Integrantes:
 - Camilo Andrés Chaparro Silva
 
-## Compilación
+## Compilación:
 
 ### 1. Pre-requisitos
 
