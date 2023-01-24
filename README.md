@@ -28,7 +28,7 @@ Traductor de HTML a SLIM usando ANTLR 4 con el patron de listeners. La traducci�
 8. Ya por último corra el proyecto y haga las pruebas como texto plano en Postman o en la herramienta que prefieras.
 - Servicio: Method: POST. localhost:3001/traductor/cadena
 
-##Referencias:
+## Referencias:
 - Gramática: https://github.com/antlr/grammars-v4/tree/master/html
 - https://tutorialehtml.com/es/guia-del-principiante-en-html/
 - https://html2slim.herokuapp.com/
