@@ -32,5 +32,3 @@ Traductor de HTML a SLIM usando ANTLR 4 con el patron de listeners. La traducci√
 - Gram√°tica: https://github.com/antlr/grammars-v4/tree/master/html
 - https://tutorialehtml.com/es/guia-del-principiante-en-html/
 - https://html2slim.herokuapp.com/
-
-# HTMLtoSLIM
